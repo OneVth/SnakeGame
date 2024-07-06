@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\C#\\Personal\\SnakeGame\\SnakeGame\\",
+  "WorkspaceRootPath": "E:\\GitHub\\SnakeGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBA57426-495A-4798-BF0F-EB9474D4DBAE}|SnakeGame.csproj|e:\\c#\\personal\\snakegame\\snakegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FBA57426-495A-4798-BF0F-EB9474D4DBAE}|SnakeGame.csproj|e:\\github\\snakegame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA57426-495A-4798-BF0F-EB9474D4DBAE}|SnakeGame.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA57426-495A-4798-BF0F-EB9474D4DBAE}|SnakeGame.csproj|e:\\github\\snakegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBA57426-495A-4798-BF0F-EB9474D4DBAE}|SnakeGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA57426-495A-4798-BF0F-EB9474D4DBAE}|SnakeGame.csproj|e:\\github\\snakegame\\layout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA57426-495A-4798-BF0F-EB9474D4DBAE}|SnakeGame.csproj|solutionrelative:layout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,12 +35,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\GitHub\\SnakeGame\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "E:\\GitHub\\SnakeGame\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T08:54:12.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Layout.cs",
+              "DocumentMoniker": "E:\\GitHub\\SnakeGame\\Layout.cs",
+              "RelativeDocumentMoniker": "Layout.cs",
+              "ToolTip": "E:\\GitHub\\SnakeGame\\Layout.cs",
+              "RelativeToolTip": "Layout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T08:21:45.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C#\\Personal\\SnakeGame\\SnakeGame\\Program.cs",
+              "DocumentMoniker": "E:\\GitHub\\SnakeGame\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\C#\\Personal\\SnakeGame\\SnakeGame\\Program.cs",
+              "ToolTip": "E:\\GitHub\\SnakeGame\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-06T08:19:17.967Z",
               "EditorCaption": ""
